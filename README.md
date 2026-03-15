@@ -1,5 +1,7 @@
 # kani-lunch
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Lunch map where you can eat Echizen crab.
 
 ## Demo
