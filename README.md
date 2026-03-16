@@ -15,4 +15,4 @@ https://code4fukui.github.io/kani-lunch/
 The data is sourced from the [Fukui Prefecture Tourism Data Analysis System "FTAS"](https://www.fuku-e.com/feature/detail_266.html).
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
